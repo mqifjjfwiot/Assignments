@@ -1,0 +1,21 @@
+category,product_id(key),price($),coin,hammer,dart,roller,shuffle,rocket,rocket(h),TNT,TNT(h),wild,wild(h),heart(h),impression_at,purchase_condition,purchase_limit
+Coin 1,tiny_coin_pack,1.99,1000,,,,,,,,,,,,,상시,
+Coin 2,basic_coin_pack,7.99,5000,,,,,,,,,,,,,상시,
+Coin 3,big_coin_pack,14.99,10000,,,,,,,,,,,,,상시,
+Coin 4,large_coin_pack,29.99,25000,,,,,,,,,,,,,상시,
+Coin 5,grand_coin_pack,54.99,50000,,,,,,,,,,,,,상시,
+Coin 6,deluxe_coin_pack,99.99,100000,,,,,,,,,,,,,상시,
+Store Bundle,breakthrough_bundle,5.99,2000,,,,,3,,3,,,,,,상시,
+Store Bundle,small_delights,9.99,5000,1,1,1,1,,1,,1,,1,,,상시,
+Store Bundle,box_of_treats,19.99,10000,2,2,2,2,,12,,12,,12,,,상시,
+Store Bundle,little_luxuries,39.99,25000,4,4,4,4,,24,,24,,24,6,,상시,
+Store Bundle,self_care_set,79.99,50000,10,10,10,10,,72,,72,,72,12,,상시,
+Store Bundle,pamper_package,99.99,65000,13,13,13,13,,100,,100,,100,18,,상시,
+Limmited Bundle,vip_pass,9.99,,,,,,,,,,,,,메인씬/상점/팝업,36 레벨 클리어 후 구매 가능,
+Limmited Bundle,warm_welcome_bundle,1.99,1500,1,1,1,1,,,,,,,,메인씬/상점/팝업,상시,1회 구매 제한
+Limmited Bundle,dont_giveup_now1,1.99,1000,1,1,1,1,,,,,,,,팝업,이어하기 닫기버튼 터치시,미구매 대기시간 15분
+Limmited Bundle,dont_giveup_now2,6.99,4000,2,2,2,2,,,,,,,,팝업,이어하기 닫기버튼 터치시,"dont_giveup_now1혹은2 구매 후
+6시간 경과"
+Limmited Bundle,brace_yourself,2.99,2500,,,,,,0.5,,0.5,,0.5,,팝업,하드레벨과 수퍼하드레벨 ready-fail팝업,재구매 대기시간 12시간
+Limmited Bundle,wonderful_weekend_bundle,9.99,8000,2,2,2,2,,1,,1,,1,1,팝업,주말 구매 가능,
+Limmited Bundle,episode_success_bundle,12.99,10000,3,3,3,3,,12,,12,,12,3,메인씬/상점/팝업,에피소드 마지막 태스크 완료시,등장 직후 3시간 제한
